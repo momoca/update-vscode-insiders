@@ -82,3 +82,4 @@ D:\VSCode
 
 ## 📁 脚本源码（update.ps1）
 
+[update.ps1](./update.ps1)
